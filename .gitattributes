@@ -1,0 +1,13 @@
+lyrics/Hip-Hop.csv filter=lfs diff=lfs merge=lfs -text
+lyrics/Indie.csv filter=lfs diff=lfs merge=lfs -text
+lyrics/Jazz.csv filter=lfs diff=lfs merge=lfs -text
+lyrics/Metal.csv filter=lfs diff=lfs merge=lfs -text
+lyrics/Other.csv filter=lfs diff=lfs merge=lfs -text
+lyrics/Country.csv filter=lfs diff=lfs merge=lfs -text
+lyrics/Electronic.csv filter=lfs diff=lfs merge=lfs -text
+lyrics/Folk.csv filter=lfs diff=lfs merge=lfs -text
+lyrics/Pop.csv filter=lfs diff=lfs merge=lfs -text
+lyrics/R&B.csv filter=lfs diff=lfs merge=lfs -text
+lyrics/Not[[:space:]]Available.csv filter=lfs diff=lfs merge=lfs -text
+lyrics/Rock.csv filter=lfs diff=lfs merge=lfs -text
+lyrics.csv filter=lfs diff=lfs merge=lfs -text
